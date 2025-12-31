@@ -4,7 +4,7 @@
 
 > **Your complete guide to mastering Claude Code**
 
-After testing Claude Code extensively, I've developed this comprehensive cheat sheet that will take you from basic to advanced user without wasting time. Whether you're completely new to Claude Code or looking to master advanced features, this guide has you covered.
+After putting Claude Code through its paces, I've compiled this complete cheat sheet that fast-tracks you from basics to advanced mastery. Whether you're starting from scratch or ready to level up your skills, you'll find everything you need right here.
 
 ## Quick Start
 

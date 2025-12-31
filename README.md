@@ -1,6 +1,6 @@
 # Claude Code Cheat Sheet
 
-![Alt text](images/claude-code-cheat-sheet.png)
+![claude_code_cheat_sheet.png](images/claude_code_cheat_sheet.png)
 
 > **Your complete guide to mastering Claude Code**
 
